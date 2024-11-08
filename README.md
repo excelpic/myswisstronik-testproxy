@@ -91,15 +91,6 @@ npm run upgrade
 - Copy the transaction hash link and paste the address into testnet dashboard(Point3)
 - No need push to github
 
-by :
-
-github : [Mnuralim](https://github.com/Mnuralim)
-
-twitter : @Izzycracker04
-
-telegram : @fitriay19
-
-youtube : https://www.youtube.com/@IzzyTSN
 
 Ignore this!!!
 
